@@ -1,0 +1,13 @@
+class ABC{
+	String name;
+	int no;
+
+	ABC(String name ,int n){
+	   name =name;
+           no=n;	
+	}
+        public static void main(){  
+  ABC x= new ABC(Vaibhav,99);
+  }
+}	
+  
