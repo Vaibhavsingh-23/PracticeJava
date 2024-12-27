@@ -1,0 +1,5 @@
+java -cp "...........\..............;......."
+Connection con = DriverManager.getConnection("jdbc:MySQL://	api:port/mca","  ","  "); 
+
+
+Connection con=DriverManager.getConnection("jdbc:mysql://127.0.0.1:3306/mca","root","vaibhav12@"

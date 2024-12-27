@@ -23,5 +23,6 @@ String sql ="CREATE TABLE University1"+
 	System.out.println("Created table in given database");
 
 }
-catch(SQLException e){}
-}}
+catch(SQLException e){ System.out.println("SQL Exception: " + e.getMessage()); }
+}
+}
